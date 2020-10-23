@@ -1,8 +1,13 @@
 package main
 
 import ( "fmt"
+<<<<<<< HEAD
 					"math"
 				)
+=======
+         "math"
+	)
+>>>>>>> 41cd84b87b5e5548a830641d26dbc9ce74336d8f
 
 // Implement types Rectangle, Circle and Shape
 type Shape interface {

@@ -2,7 +2,12 @@ package model
 
 //Implement game pieces here
 
+<<<<<<< HEAD
 //Describing each piece movement
+=======
+
+
+>>>>>>> 41cd84b87b5e5548a830641d26dbc9ce74336d8f
 type Piece struct {
     Name string
     Color string
