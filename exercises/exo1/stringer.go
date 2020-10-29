@@ -1,5 +1,5 @@
 package main
-
+// Implement
 import ( "fmt"
 <<<<<<< HEAD
 					"math"
