@@ -8,6 +8,9 @@ import (
 
 type mockCoord int
 
+
+
+
 // Coord returns x if n==0, y if n==1
 func (c mockCoord) Coord(n int) (int, error) {
 	return int(c), nil
