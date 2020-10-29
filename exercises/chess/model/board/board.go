@@ -9,20 +9,30 @@ import (
 type Classic [8][8]piece.Piece
 
 func (c *Classic) String() string {
-	panic("not implemented") // TODO: Implement
+	//panic("not implemented") // TODO: Implement
+	return "1"
 }
 
 // PieceAt retrievves piece at give coordinates.
 // Returns nil if no piece was found.
 func (c *Classic) PieceAt(at coord.ChessCoordinates) piece.Piece {
-	panic("not implemented") // TODO: Implement
+	//panic("not implemented") // TODO: Implement
+
+
+
+
 }
 
 // MovePiece moves a piece from given coordinates to
 // given coordinates.
 // Returns an error if destination was occupied.
 func (c *Classic) MovePiece(from coord.ChessCoordinates, to coord.ChessCoordinates) error {
-	panic("not implemented") // TODO: Implement
+	//panic("not implemented") // TODO: Implement
+
+
+
+
+
 }
 
 // PlacePieceAt places a given piece at given location.
