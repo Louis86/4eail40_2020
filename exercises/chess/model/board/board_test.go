@@ -9,7 +9,7 @@ import (
 	"github.com/jglouis/4eail40_2020/exercises/chess/model/player"
 )
 
-// mockPiece piece pour le test
+// mock piece pour le test
 type mock struct {
 }
 
