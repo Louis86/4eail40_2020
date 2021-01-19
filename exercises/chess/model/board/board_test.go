@@ -131,7 +131,7 @@ func TestClassic_PlacePieceAt(t *testing.T) {
 		name    string
 		c       Classic
 		args    args
-		wantErr bool // true if there is an error, false if there is not.
+		wantErr bool
 	}{
 		{
 			"Test pass",
